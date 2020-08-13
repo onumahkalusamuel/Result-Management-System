@@ -1,0 +1,13 @@
+<?php
+
+namespace Core;
+
+class Config {
+
+    public const HOST = "%s";
+    public const DBNAME = "%s";
+    public const USERNAME = "%s";
+    public const PASSWORD = "%s";
+    public const BASEURL = "%s";
+    
+}
