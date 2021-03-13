@@ -4,7 +4,7 @@ namespace Model;
 class Papers {
     // database table
     private $table = 'papers', 
-    $classCategoryTable = 'classcategory',
+    $classCategoryTable = 'classCategory',
     $subjectTable = 'subjects',
     $conn;
     
